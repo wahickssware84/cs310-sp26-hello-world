@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author William Hicks
  */
 
 public class Class2 {

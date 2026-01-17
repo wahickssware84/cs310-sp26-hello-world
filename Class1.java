@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author William Hicks
  */
 
 public class Class1 {
@@ -8,5 +8,5 @@ public class Class1 {
     private void f1() {
         // v1.0
     }
-    
+
 }
